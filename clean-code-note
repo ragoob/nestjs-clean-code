@@ -1,0 +1,6 @@
+- Program to interface not to class
+- The upper layer should not depends on details of lower layer 
+- Repository patter : give us abstraction layer over persistance 
+  Collection of domain models 
+  push / delete / return element of collection remove / add
+- Unit of work submit changes in one transactions 
